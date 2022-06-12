@@ -11,5 +11,9 @@
   "devDependencies": {
     "semantic-release": "^19.0.3",
     "semantic-release-npm-github-publish": "^1.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rom-dos/semantic-release-test.git"
   }
 }
