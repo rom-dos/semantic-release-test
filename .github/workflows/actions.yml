@@ -28,7 +28,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        env: 
+          name: CD
         run: npx semantic-release
