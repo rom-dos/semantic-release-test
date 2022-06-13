@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/rom-dos/semantic-release-test/compare/v1.0.0...v1.0.1) (2022-06-13)
+
+
+### chore
+
+* update package.json ([1ab671f](https://github.com/rom-dos/semantic-release-test/commit/1ab671fcf197d6a433e9e7a0262453c2758196b5))
+
 # 1.0.0 (2022-06-13)
 
 
