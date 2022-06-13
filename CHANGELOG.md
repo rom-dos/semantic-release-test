@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/rom-dos/semantic-release-test/compare/v1.0.1...v1.0.2) (2022-06-13)
+
+
+### fix
+
+* update NPM package name ([6259d38](https://github.com/rom-dos/semantic-release-test/commit/6259d38d3410cc353f2da9c19f3886e553dba156))
+
 ## [1.0.1](https://github.com/rom-dos/semantic-release-test/compare/v1.0.0...v1.0.1) (2022-06-13)
 
 
