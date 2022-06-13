@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/rom-dos/semantic-release-test/compare/v1.0.2...v1.0.3) (2022-06-13)
+
+
+### chore
+
+* another tedious change to test ([ebe9c72](https://github.com/rom-dos/semantic-release-test/commit/ebe9c72d8bd31a22c545882c793db744db49fa51))
+
 ## [1.0.2](https://github.com/rom-dos/semantic-release-test/compare/v1.0.1...v1.0.2) (2022-06-13)
 
 
