@@ -30,4 +30,5 @@ jobs:
       - name: Release
         env: 
           name: CD
+          GITHUB_TOKEN: ${{ github.token }}
         run: npx semantic-release
