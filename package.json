@@ -15,5 +15,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/rom-dos/semantic-release-test.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "tag": "latest"
   }
 }
